@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # myscreen.sh — wrapper for scrcpy wireless mirroring
-# Author: Satyam Kumar
+# Author: KUMAR SATYAM
 # License: MIT
 
 # Check if required tools are installed

@@ -11,7 +11,7 @@ if [ -z "$IP" ]; then
   exit 1
 fi
 
-echo "📡 Connecting to $IP..."
+echo "Connecting to $IP..."
 adb tcpip 5555
 adb connect "$IP:5555"
 
